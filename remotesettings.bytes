@@ -1,0 +1,54 @@
+{
+    "firstDelay": 14000,
+    "delay": 3600,
+    "delays": [
+        1800,
+        900,
+        900,
+        900,
+        1800
+    ],
+    "fetchRemote": 15,
+    "interstitialInterval": 900,
+    "interstitialIntervalFirstDelay": 60,
+    "loadTimeout": 7,
+    "useWeight": true,
+    "version": 8,
+    "logVerbose": true,
+    "logInfo": true,
+    "logWarning": true,
+    "logError": true,
+    "providers": [
+        {
+            "id": "com.supergamedynamics.providers.unity.UnityInterstitial",
+            "enabled": true,
+            "delay": 7000,
+            "priority": 3,
+            "weight": 3
+        },
+        {
+            "id": "com.supergamedynamics.providers.facebook.FacebookInterstitial",
+            "enabled": false,
+            "priority": 500,
+            "weight": 500
+        },
+        {
+            "id": "com.supergamedynamics.providers.admob.AdMobInterstitial",
+            "enabled": true,
+            "priority": 10,
+            "weight": 10
+        },
+        {
+            "id": "com.supergamedynamics.providers.facebook.FacebookNativeAd",
+            "enabled": false,
+            "priority": 500,
+            "weight": 500
+        },
+        {
+            "id": "com.supergamedynamics.providers.admob.AdMobNativeAd",
+            "enabled": false,
+            "priority": 10,
+            "weight": 10
+        }
+    ]
+}
