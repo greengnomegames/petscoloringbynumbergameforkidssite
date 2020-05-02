@@ -1,54 +1,1 @@
-{
-    "firstDelay": 14000,
-    "delay": 3600,
-    "delays": [
-        1800,
-        900,
-        900,
-        900,
-        1800
-    ],
-    "fetchRemote": 15,
-    "interstitialInterval": 900,
-    "interstitialIntervalFirstDelay": 60,
-    "loadTimeout": 7,
-    "useWeight": true,
-    "version": 8,
-    "logVerbose": true,
-    "logInfo": true,
-    "logWarning": true,
-    "logError": true,
-    "providers": [
-        {
-            "id": "com.supergamedynamics.providers.unity.UnityInterstitial",
-            "enabled": true,
-            "delay": 7000,
-            "priority": 3,
-            "weight": 3
-        },
-        {
-            "id": "com.supergamedynamics.providers.facebook.FacebookInterstitial",
-            "enabled": false,
-            "priority": 500,
-            "weight": 500
-        },
-        {
-            "id": "com.supergamedynamics.providers.admob.AdMobInterstitial",
-            "enabled": true,
-            "priority": 10,
-            "weight": 10
-        },
-        {
-            "id": "com.supergamedynamics.providers.facebook.FacebookNativeAd",
-            "enabled": false,
-            "priority": 500,
-            "weight": 500
-        },
-        {
-            "id": "com.supergamedynamics.providers.admob.AdMobNativeAd",
-            "enabled": false,
-            "priority": 10,
-            "weight": 10
-        }
-    ]
-}
+Z,+GHSRUeDM@X,+EDM@X,+EDM@XRz,+,+,+,+,+,+|,+GDUBIsDLNUD,+HOUDSRUHUH@MhOUDSW@M,+HOUDSRUHUH@MhOUDSW@MgHSRUeDM@X,+MN@EuHLDNTU,+TRDvDHFIUUSTD,+WDSRHNO,+MNFwDSCNRDUSTD,+MNFhOGNUSTD,+MNFv@SOHOFUSTD,+MNFdSSNSUSTD,+QSNWHEDSRz,+Z,+HEBNLRTQDSF@LDEXO@LHBRQSNWHEDSRTOHUXtOHUXhOUDSRUHUH@M,+DO@CMDEUSTD,+EDM@X,+QSHNSHUX,+VDHFIU,+\,+Z,+HEBNLRTQDSF@LDEXO@LHBRQSNWHEDSRG@BDCNNJg@BDCNNJhOUDSRUHUH@M,+DO@CMDEG@MRD,+QSHNSHUX,+VDHFIU,+\,+Z,+HEBNLRTQDSF@LDEXO@LHBRQSNWHEDSR@ELNC`ElNChOUDSRUHUH@M,+DO@CMDEUSTD,+QSHNSHUX,+VDHFIU,+\,+Z,+HEBNLRTQDSF@LDEXO@LHBRQSNWHEDSRG@BDCNNJg@BDCNNJo@UHWD`E,+DO@CMDEG@MRD,+QSHNSHUX,+VDHFIU,+\,+Z,+HEBNLRTQDSF@LDEXO@LHBRQSNWHEDSR@ELNC`ElNCo@UHWD`E,+DO@CMDEG@MRD,+QSHNSHUX,+VDHFIU,+\,+|,+\
